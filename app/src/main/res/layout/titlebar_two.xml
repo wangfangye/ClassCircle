@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:orientation="horizontal"
+    android:background="@android:color/holo_blue_light"
+
+    >
+
+    <ImageView
+        android:layout_marginLeft="10dp"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/back2"
+        />
+
+    <TextView
+        android:layout_marginRight="40dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="尚硅谷知识库"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+</LinearLayout>

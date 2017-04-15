@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="logingreen">#43ACBD</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark">#FF222222</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="graytext">#737373</color> <!-- 115,115,115 -->
+    <color name="bluetext">#18ABE2</color> <!-- 24,171,226 -->
+    <color name="blue">#0AB8F4</color> <!-- 10,184,244 -->
+    <color name="lightgray">#F3F3F3</color> <!-- 243,243,243 -->
+    <color name="yellotexts">#FFFF00</color> <!-- 255,255,0 -->
+    <color name="bggray">#F0EFF4</color>
+    <color name="red">#ED1C24</color>
+    <color name="green">#22B14C</color>
+    <color name="flower">#843C33</color>
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="logback">#89c997</color>
+    <color name="redforsalary">#F6A291</color>
+    <color name="gray">#9e9d9d</color>
+    <color name="yellow">#fed75d</color>
+    <color name="graybackgtound">#e0e9eb</color>
+    <color name="greentext">#0aa37f</color>
+</resources>
